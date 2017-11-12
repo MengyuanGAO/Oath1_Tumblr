@@ -1,1 +1,15 @@
 Put your Project 5 brief explanation, as directed, here.
+
+I am accessing the Tumblr search API and gathering:
+
+- 20 posts for each of 2 blogs I'm going to search for
+
+- For each post, I'll be accessing the title, note_account, summary, tags, post date and the short URL of the post
+    
+- I'll write 2 CSV files, one for each blog’s posts 
+
+- Data in each CSV file: 6 columns -- title, note_account, summary, tags, date of post, and url of the post
+
+- URL for the API: https://api.tumblr.com/v2/blog/{blog-identifier}/posts
+
+- If necessary, URL describing the authentication process for the API: https://www.tumblr.com/docs/en/api/v2#auth
