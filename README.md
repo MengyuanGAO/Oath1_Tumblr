@@ -17,9 +17,9 @@
 
     * Implement a caching system that ensures you will not run afoul of the rate limit of whatever API you use, and that you will not get data from the same request more than once per 12 hours, no matter how many times you run the program. 
 
-  * Get data from this API using OAuth1 authentication 
+    * Get data from this API using OAuth1 authentication 
   
-  * Create `.CSV` files of data.
+    * Create `.CSV` files of data.
 
 
 
