@@ -1,4 +1,4 @@
-# OAuth & Data Processing —— Tumblr
+# OAuth & Data Processing — Tumblr
 
 
 ## Instructions
